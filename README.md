@@ -10,3 +10,4 @@ Used: -@font-face
       -transitions and animations
       -css selectors
       -pseudo-elements, pseudo-classes
+      -hamburger type menu for mobile version
